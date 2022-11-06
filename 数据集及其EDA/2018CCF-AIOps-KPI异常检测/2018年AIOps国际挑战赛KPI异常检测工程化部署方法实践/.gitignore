@@ -1,0 +1,11 @@
+*.csv
+*.pkl
+*.zip
+*.npz
+*.pyc
+*.hdf
+*.log
+
+/cached_models/*
+/cached_data/*
+
