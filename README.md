@@ -43,9 +43,9 @@ Materials about Artificial Intelligence for IT Operations (AIOps).
 
 | China (& HK SAR)                                      |                                                                                          |                                                                         |                                                     |
 | :---------------------------------------------------- | :--------------------------------------------------------------------------------------- | :---------------------------------------------------------------------- | :-------------------------------------------------- |
-| [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/), CUHK  | [Dongmei Zhang](https://www.microsoft.com/en-us/research/people/dongmeiz/), Microsoft       | [Pengfei Chen](http://sdcs.sysu.edu.cn/content/3747), SYSU                 | [Dan Pei](https://netman.aiops.org/~peidan/), Tsinghua | 
-[Pengfei Chen](http://www.dds-sysu.tech/Teachers), SYSU |
-| [Xin Peng](https://cspengxin.github.io/), Fudan          |                                                                                          |                                                                         |                                                     |
+| [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/), CUHK  | [Dongmei Zhang](https://www.microsoft.com/en-us/research/people/dongmeiz/), Microsoft       | [Pengfei Chen](http://sdcs.sysu.edu.cn/content/3747), SYSU                 | [Dan Pei](https://netman.aiops.org/~peidan/), Tsinghua |
+| [Pengfei Chen](http://www.dds-sysu.tech/Teachers), SYSU  | [Xin Peng](https://cspengxin.github.io/), Fudan                                             |                                                                         |                                                     |
+|                                                       |                                                                                          |                                                                         |                                                     |
 | **USA**                                         |                                                                                          |                                                                         |                                                     |
 | [Ryan Huang](https://www.cs.jhu.edu/~huang/), JHU        | [Yingnong Dang](https://scholar.google.com.hk/citations?user=InqtwxcAAAAJ&hl=en), Microsoft | [Christina Delimitrou](https://www.csl.cornell.edu/~delimitrou/), MIT EECS |                                                     |
 | **Europe**                                      |                                                                                          |                                                                         |                                                     |
@@ -61,6 +61,7 @@ Materials about Artificial Intelligence for IT Operations (AIOps).
 - [实验室Github](http://github.com/NetManAIOps)
 
 ### 中山大学 陈鹏飞团队
+
 - [个人主页](http://www.dds-sysu.tech/Teachers)
 - [谷歌主页](https://xueshu.studiodahu.com/citations?hl=zh-CN&user=g9tdjgQAAAAJ&view_op=list_works&sortby=pubdate)
 - [实验室主页](http://www.dds-sysu.tech/)
@@ -198,9 +199,7 @@ Materials about Artificial Intelligence for IT Operations (AIOps).
 ### 阿里巴巴
 
 - [第三届阿里云磐久智维算法大赛](https://tianchi.aliyun.com/competition/entrance/531947/introduction?spm=5176.12281949.1003.1.48ff2448lH1gSZ)
-
 - [PAKDD2021 第二届阿里云智能运维算法大赛](https://tianchi.aliyun.com/competition/entrance/531874/introduction?spm=5176.12281957.0.0.41ed3eafuIEMR0)
-
 - [PAKDD2020 阿里巴巴智能运维算法大赛](https://tianchi.aliyun.com/competition/entrance/231775/introduction?spm=5176.12281957.0.0.41ed3eafuIEMR0)
 
 ## Datasets
