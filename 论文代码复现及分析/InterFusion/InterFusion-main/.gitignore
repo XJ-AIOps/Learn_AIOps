@@ -1,0 +1,10 @@
+.idea/
+*/__pycache__/
+__pycache__/
+.cache
+.pytest_cache
+*.pyc
+.DS_Store
+*.log
+data/Dataset Description.md
+.idea/vcs.xml

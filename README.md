@@ -43,7 +43,8 @@ Materials about Artificial Intelligence for IT Operations (AIOps).
 
 | China (& HK SAR)                                      |                                                                                          |                                                                         |                                                     |
 | :---------------------------------------------------- | :--------------------------------------------------------------------------------------- | :---------------------------------------------------------------------- | :-------------------------------------------------- |
-| [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/), CUHK  | [Dongmei Zhang](https://www.microsoft.com/en-us/research/people/dongmeiz/), Microsoft       | [Pengfei Chen](http://sdcs.sysu.edu.cn/content/3747), SYSU                 | [Dan Pei](https://netman.aiops.org/~peidan/), Tsinghua |
+| [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/), CUHK  | [Dongmei Zhang](https://www.microsoft.com/en-us/research/people/dongmeiz/), Microsoft       | [Pengfei Chen](http://sdcs.sysu.edu.cn/content/3747), SYSU                 | [Dan Pei](https://netman.aiops.org/~peidan/), Tsinghua | 
+[Pengfei Chen](http://www.dds-sysu.tech/Teachers), SYSU |
 | [Xin Peng](https://cspengxin.github.io/), Fudan          |                                                                                          |                                                                         |                                                     |
 | **USA**                                         |                                                                                          |                                                                         |                                                     |
 | [Ryan Huang](https://www.cs.jhu.edu/~huang/), JHU        | [Yingnong Dang](https://scholar.google.com.hk/citations?user=InqtwxcAAAAJ&hl=en), Microsoft | [Christina Delimitrou](https://www.csl.cornell.edu/~delimitrou/), MIT EECS |                                                     |
@@ -58,6 +59,12 @@ Materials about Artificial Intelligence for IT Operations (AIOps).
 - [谷歌主页](https://sc.panda321.com/citations?hl=zh-CN&user=i_zA1VsAAAAJ&view_op=list_works&sortby=pubdate)
 - [NetMan实验室官网](https://netman.aiops.org/publications/)
 - [实验室Github](http://github.com/NetManAIOps)
+
+### 中山大学 陈鹏飞团队
+- [个人主页](http://www.dds-sysu.tech/Teachers)
+- [谷歌主页](https://xueshu.studiodahu.com/citations?hl=zh-CN&user=g9tdjgQAAAAJ&view_op=list_works&sortby=pubdate)
+- [实验室主页](http://www.dds-sysu.tech/)
+- [实验室Github](https://github.com/IntelligentDDS)
 
 ## Industrial Materials
 

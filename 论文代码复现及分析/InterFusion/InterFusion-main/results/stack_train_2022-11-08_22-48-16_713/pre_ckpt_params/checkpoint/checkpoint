@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/wwq/XJAIOps/\350\256\272\346\226\207\344\273\243\347\240\201\345\244\215\347\216\260\345\217\212\345\210\206\346\236\220/InterFusion/InterFusion-main/results/stack_train_2022-11-08_22-48-16_713/pre_ckpt_params/checkpoint/checkpoint.dat-1180"
+all_model_checkpoint_paths: "/home/wwq/XJAIOps/\350\256\272\346\226\207\344\273\243\347\240\201\345\244\215\347\216\260\345\217\212\345\210\206\346\236\220/InterFusion/InterFusion-main/results/stack_train_2022-11-08_22-48-16_713/pre_ckpt_params/checkpoint/checkpoint.dat-1180"
