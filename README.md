@@ -39,7 +39,7 @@ Materials about Artificial Intelligence for IT Operations (AIOps).
 - [Others](#others)
   - [Courses](#courses)
 
-## Researchers
+## 一.Researchers
 
 | China (& HK SAR)                                      |                                                                                          |                                                                         |                                                     |
 | :---------------------------------------------------- | :--------------------------------------------------------------------------------------- | :---------------------------------------------------------------------- | :-------------------------------------------------- |
@@ -67,7 +67,7 @@ Materials about Artificial Intelligence for IT Operations (AIOps).
 - [实验室主页](http://www.dds-sysu.tech/)
 - [实验室Github](https://github.com/IntelligentDDS)
 
-## Industrial Materials
+## 二. Industrial Materials
 
 ### White Papers
 
@@ -91,7 +91,7 @@ Materials about Artificial Intelligence for IT Operations (AIOps).
 - [听云 TINGYUN](https://www.tingyun.com/lp.html): 端到端的全平台应用性能管理系统
 - [Loom Systems](https://www.loomsystems.com/)
 
-## Academic Materials
+## 三. Academic Materials
 
 ### Talks
 
@@ -103,7 +103,7 @@ Materials about Artificial Intelligence for IT Operations (AIOps).
 - [AAAI-20 Workshop on Cloud Intelligence](http://cloudintelligenceworkshop.org/2020/index.html)
 - [AIOPS 2020 (International Workshop on Artificial Intelligence for IT Operations)](https://aiopsworkshop.github.io/)
 
-## Papers
+## 四. Papers
 
 ### Survey & Empirical Study
 
@@ -190,7 +190,7 @@ Materials about Artificial Intelligence for IT Operations (AIOps).
 - [SOSP '21] [Understanding and Detecting Software Upgrade Failures in Distributed Systems](https://dl.acm.org/doi/10.1145/3477132.3483577)
 - [NSDI '20] [Gandalf: An Intelligent, End-To-End Analytics Service for Safe Deployment in Large-Scale Cloud Infrastructure](https://www.usenix.org/conference/nsdi20/presentation/li)
 
-## Competitions
+## 五. Competitions
 
 ### CCF国际AIOps挑战赛
 
@@ -202,7 +202,7 @@ Materials about Artificial Intelligence for IT Operations (AIOps).
 - [PAKDD2021 第二届阿里云智能运维算法大赛](https://tianchi.aliyun.com/competition/entrance/531874/introduction?spm=5176.12281957.0.0.41ed3eafuIEMR0)
 - [PAKDD2020 阿里巴巴智能运维算法大赛](https://tianchi.aliyun.com/competition/entrance/231775/introduction?spm=5176.12281957.0.0.41ed3eafuIEMR0)
 
-## Datasets
+## 六. Datasets
 
 ### CUHK 香港中文大学
 
@@ -233,7 +233,7 @@ Materials about Artificial Intelligence for IT Operations (AIOps).
 
 - [Ceph Drive] [kaggle](https://www.kaggle.com/datasets/chauhankaranraj/ceph-drive-telemetry-data)
 
-## Tools、Models and Systems
+## 七. Tools、Models and Systems
 
 - [Log Analytics] [LogPAI](https://github.com/logpai)
 - [AI for Cloud Operation] [OpsPAI](https://github.com/OpsPAI)
@@ -251,14 +251,14 @@ Materials about Artificial Intelligence for IT Operations (AIOps).
 - [Fudan] [Train Ticket (A Benchmark Microservice System)](https://github.com/FudanSELab/train-ticket) 该项目是一个基于微服务架构的火车票预订系统，包含41个微服务。
 - [Weaveworks] [Sock Shop (A Microservices Demo Application)](https://microservices-demo.github.io/) 袜子店模拟了一个销售袜子的电子商务网站中面向用户的部分。它的目的是帮助演示和测试微服务和云原生技术。
 
-## Others
+## 八. Others
 
 ### Courses
 
 - [Coursera] [Cloud-Based Network Design &amp; Management Techniques](https://www.coursera.org/learn/cloud-based-network-design-and-management)
 - [Tsinghua] [AIOps Course of Tsinghua](https://netman.aiops.org/courses/advanced-network-management-spring2021-course/)
 
-## Reference
+## 九. Reference
 
 - [OpsPAI] [https://github.com/WeibinMeng/log-anomaly-detection](https://github.com/OpsPAI/awesome-AIOps)
 - [WeibinMeng] [https://github.com/WeibinMeng/log-anomaly-detection](https://github.com/WeibinMeng/log-anomaly-detection)
