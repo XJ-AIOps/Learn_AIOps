@@ -214,7 +214,9 @@ Materials about Artificial Intelligence for IT Operations (AIOps).
 
 ### Tsinghua 清华
 
-- [Tsinghua] [AIOps Challenge Dataset](http://iops.ai/dataset_list/)
+- [Tsinghua] [2018 AIOps Challenge Dataset](https://github.com/NetManAIOps/KPI-Anomaly-Detection)
+- [Tsinghua] [2019 AIOps Challenge Dataset](https://github.com/NetManAIOps/MultiDimension-Localization)
+- [Tsinghua] [2020 AIOps Challenge Dataset](https://github.com/NetManAIOps/AIOps-Challenge-2020-Data)
 
 ### Google 谷歌
 
@@ -232,6 +234,10 @@ Materials about Artificial Intelligence for IT Operations (AIOps).
 ### Ceph Drive Telemetry Data
 
 - [Ceph Drive] [kaggle](https://www.kaggle.com/datasets/chauhankaranraj/ceph-drive-telemetry-data)
+
+### GAIA-DataSet
+
+- [GAIA](https://github.com/CloudWise-OpenSource/GAIA-DataSet)
 
 ## 七. Tools、Models and Systems
 
@@ -251,14 +257,24 @@ Materials about Artificial Intelligence for IT Operations (AIOps).
 - [Fudan] [Train Ticket (A Benchmark Microservice System)](https://github.com/FudanSELab/train-ticket) 该项目是一个基于微服务架构的火车票预订系统，包含41个微服务。
 - [Weaveworks] [Sock Shop (A Microservices Demo Application)](https://microservices-demo.github.io/) 袜子店模拟了一个销售袜子的电子商务网站中面向用户的部分。它的目的是帮助演示和测试微服务和云原生技术。
 
-## 八. Others
+## 八. Community
+
+- [云智慧] [CloudWise-OpenSource](https://www.cloudwise.ai/)
+
+## 九. Internet articles
+- [基于深度学习的运维日志领域新进展](https://zhuanlan.zhihu.com/p/586626228)
+
+- [从实验室到用户桌面，深度解析AI落地实践之路](https://www.51cto.com/article/719959.html)
+
+## 十. Others
 
 ### Courses
 
 - [Coursera] [Cloud-Based Network Design &amp; Management Techniques](https://www.coursera.org/learn/cloud-based-network-design-and-management)
 - [Tsinghua] [AIOps Course of Tsinghua](https://netman.aiops.org/courses/advanced-network-management-spring2021-course/)
 
-## 九. Reference
+## 十一. Reference
 
 - [OpsPAI] [https://github.com/WeibinMeng/log-anomaly-detection](https://github.com/OpsPAI/awesome-AIOps)
 - [WeibinMeng] [https://github.com/WeibinMeng/log-anomaly-detection](https://github.com/WeibinMeng/log-anomaly-detection)
+- [awesome-AIOps] [https://github.com/linjinjin123/awesome-AIOps](https://github.com/linjinjin123/awesome-AIOps)
