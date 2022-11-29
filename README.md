@@ -23,21 +23,25 @@ Materials about Artificial Intelligence for IT Operations (AIOps).
   - [VM Analysis and Management](#vm-analysis-and-management)
   - [Deployment](#deployment)
 - [Competitions](#competitions)
-  - [CUHK 香港中文大学](#cuhk-香港中文大学)
-  - [Microsoft 微软](#microsoft-微软)
-  - [Tsinghua 清华 CCF 国际AIOps大赛](#tsinghua-清华)
-  - [Google 谷歌](#google-谷歌)
-  - [Backblaze 云备份和存储供应商](#backblaze-云备份和存储供应商)
-  - [Alibaba-智能运维大赛](#alibaba-智能运维大赛)
+  - [Tsinghua 清华 CCF 国际AIOps大赛](#CCF国际AIOps挑战赛)
+  - [Alibaba-智能运维大赛](#阿里巴巴)
+  - [华为通信智能运维大赛](#华为)
 - [Datasets](#datasets)
   - [CUHK 香港中文大学](#cuhk-香港中文大学)
   - [Microsoft 微软](#microsoft-微软)
   - [Tsinghua 清华 CCF 国际AIOps大赛](#tsinghua-清华)
   - [Google 谷歌](#google-谷歌)
   - [Backblaze 云备份和存储供应商](#backblaze-云备份和存储供应商)
-  - [Alibaba-智能运维大赛](#alibaba-智能运维大赛)
+  - [Alibaba-智能运维大赛](#alibaba-智能运维大赛数据集)
+  - [AIOps2022通信网络智能运维大赛数据集](#)
+  - GAIA-DataSet
+  - 华为网络运维数据集
+- Tools, Models and Systems
+- Community
+- Internet articles
 - [Others](#others)
   - [Courses](#courses)
+- Reference
 
 ## 一.Researchers
 
@@ -202,6 +206,10 @@ Materials about Artificial Intelligence for IT Operations (AIOps).
 - [PAKDD2021 第二届阿里云智能运维算法大赛](https://tianchi.aliyun.com/competition/entrance/531874/introduction?spm=5176.12281957.0.0.41ed3eafuIEMR0)
 - [PAKDD2020 阿里巴巴智能运维算法大赛](https://tianchi.aliyun.com/competition/entrance/231775/introduction?spm=5176.12281957.0.0.41ed3eafuIEMR0)
 
+### 华为
+
+- [AIOps 2022 通信网络智能运维大赛](https://www.aiops.sribd.cn/home/statement)
+
 ## 六. Datasets
 
 ### CUHK 香港中文大学
@@ -226,7 +234,7 @@ Materials about Artificial Intelligence for IT Operations (AIOps).
 
 - [Backblaze] [Hard Drive Dataset](https://www.backblaze.com/b2/hard-drive-test-data.html)
 
-### Alibaba 智能运维大赛
+### Alibaba 智能运维大赛数据集
 
 - [Alibaba] [SMART Dataset of PAKDD CUP 2020](https://pan.baidu.com/share/link?shareid=189977&uk=4278294944#list/path=%2FS.M.A.R.T.dataset)
 - [Alibaba] [SSD SMART logs and failure data](https://github.com/alibaba-edu/dcbrain/tree/master/ssd_open_data)
@@ -262,8 +270,8 @@ Materials about Artificial Intelligence for IT Operations (AIOps).
 - [云智慧] [CloudWise-OpenSource](https://www.cloudwise.ai/)
 
 ## 九. Internet articles
-- [基于深度学习的运维日志领域新进展](https://zhuanlan.zhihu.com/p/586626228)
 
+- [基于深度学习的运维日志领域新进展](https://zhuanlan.zhihu.com/p/586626228)
 - [从实验室到用户桌面，深度解析AI落地实践之路](https://www.51cto.com/article/719959.html)
 
 ## 十. Others
