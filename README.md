@@ -48,7 +48,7 @@ Materials about Artificial Intelligence for IT Operations (AIOps).
 | China (& HK SAR)                                      |                                                                                          |                                                                         |                                                     |
 | :---------------------------------------------------- | :--------------------------------------------------------------------------------------- | :---------------------------------------------------------------------- | :-------------------------------------------------- |
 | [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/), CUHK  | [Dongmei Zhang](https://www.microsoft.com/en-us/research/people/dongmeiz/), Microsoft       | [Pengfei Chen](http://sdcs.sysu.edu.cn/content/3747), SYSU                 | [Dan Pei](https://netman.aiops.org/~peidan/), Tsinghua |
-| [Pengfei Chen](http://www.dds-sysu.tech/Teachers), SYSU  | [Xin Peng](https://cspengxin.github.io/), Fudan                                             |                                                                         |                                                     |
+| [Pengfei Chen](http://www.dds-sysu.tech/Teachers), SYSU  | [Xin Peng](https://cspengxin.github.io/), Fudan                                             | [Qingwei Lin](https://www.microsoft.com/en-us/research/people/qlin/publications/), Microsoft                                                  |                                                     |
 |                                                       |                                                                                          |                                                                         |                                                     |
 | **USA**                                         |                                                                                          |                                                                         |                                                     |
 | [Ryan Huang](https://www.cs.jhu.edu/~huang/), JHU        | [Yingnong Dang](https://scholar.google.com.hk/citations?user=InqtwxcAAAAJ&hl=en), Microsoft | [Christina Delimitrou](https://www.csl.cornell.edu/~delimitrou/), MIT EECS |                                                     |
@@ -57,19 +57,37 @@ Materials about Artificial Intelligence for IT Operations (AIOps).
 | **Australia**                                   |                                                                                          |                                                                         |                                                     |
 | [Hongyu Zhang](http://hongyujohn.github.io/), UON        |                                                                                          |                                                                         |                                                     |
 
-### Dan Pei-Tsinghua(裴丹-清华)团队
+### Dan Pei-Tsinghua(裴丹-清华)
 
 - [个人主页](https://netman.aiops.org/~peidan/)
-- [谷歌主页](https://sc.panda321.com/citations?hl=zh-CN&user=i_zA1VsAAAAJ&view_op=list_works&sortby=pubdate)
+- [谷歌主页(镜像)](https://sc.panda321.com/citations?hl=zh-CN&user=i_zA1VsAAAAJ&view_op=list_works&sortby=pubdate)
 - [NetMan实验室官网](https://netman.aiops.org/publications/)
 - [实验室Github](http://github.com/NetManAIOps)
 
-### 中山大学 陈鹏飞团队
+### Pengfei Chen(陈鹏飞-中山)
 
 - [个人主页](http://www.dds-sysu.tech/Teachers)
-- [谷歌主页](https://xueshu.studiodahu.com/citations?hl=zh-CN&user=g9tdjgQAAAAJ&view_op=list_works&sortby=pubdate)
+- [谷歌主页(镜像)](https://xueshu.studiodahu.com/citations?hl=zh-CN&user=g9tdjgQAAAAJ&view_op=list_works&sortby=pubdate)
 - [实验室主页](http://www.dds-sysu.tech/)
 - [实验室Github](https://github.com/IntelligentDDS)
+
+### Qingwei Lin(林庆维-微软)
+- [个人主页](https://www.microsoft.com/en-us/research/people/qlin/publications/)
+- [谷歌主页(镜像)](https://xueshu.studiodahu.com/citations?hl=zh-CN&user=W9fdsxMAAAAJ&view_op=list_works&sortby=pubdate)
+
+### Pinjia He(贺品嘉-港中文)
+- [个人主页](https://pinjiahe.github.io/team/)
+- [谷歌主页(镜像)](https://xueshu.studiodahu.com/citations?hl=zh-CN&user=vg0moI0AAAAJ&view_op=list_works&sortby=pubdate)
+
+### Shenglin Zhang(张圣林-南开)
+- [个人主页](https://nkcs.iops.ai/shenglinzhang/)
+- [谷歌主页(镜像)](https://xs2.studiodahu.com/citations?user=be0_960AAAAJ&hl=zh-CN&oi=ao)
+- [AIOps@NKU官网](https://nkcs.iops.ai/)
+- [Publications](https://nkcs.iops.ai/publications/)
+
+### Hanzhang Wang(王含璋-eBay)
+- [个人主页](https://tech.ebayinc.com/authors/hanzhang-wang/)
+- [谷歌主页(镜像)](https://xs2.studiodahu.com/citations?hl=zh-CN&user=aabRsFkAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## 二. Industrial Materials
 
@@ -273,6 +291,7 @@ Materials about Artificial Intelligence for IT Operations (AIOps).
 
 - [基于深度学习的运维日志领域新进展](https://zhuanlan.zhihu.com/p/586626228)
 - [从实验室到用户桌面，深度解析AI落地实践之路](https://www.51cto.com/article/719959.html)
+- [智能化软件开发微访谈·第二十一期：可观测性与智能化运维](https://blog.csdn.net/pengxin_ce/article/details/125568157)
 
 ## 十. Others
 
